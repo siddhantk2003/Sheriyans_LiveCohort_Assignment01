@@ -16,7 +16,7 @@ This is a simple blog webpage built using HTML and CSS as part of an assignment 
 
 ## How to Run the Project
 1. Download or clone this repository.
-2. Open the `main.html` file in any modern web browser.
+2. Open the `Blog-Assignment1.html` file in any modern web browser.
 
 ## License
 This project is licensed under the **MIT License**. Feel free to use and modify it as needed.
